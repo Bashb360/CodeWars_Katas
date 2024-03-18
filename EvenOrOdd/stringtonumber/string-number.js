@@ -22,5 +22,3 @@ const numberToStringg = function(num) {
   
 
  
- 
-  
