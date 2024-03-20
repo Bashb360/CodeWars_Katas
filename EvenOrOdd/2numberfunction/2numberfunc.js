@@ -4,4 +4,7 @@ function countBy(x, n) {
         result.push(x * i);
     }
     return result;
+
 }
+
+
